@@ -62,3 +62,9 @@ input[type="radio"] {
   padding: 0;
   opacity: 0;
 }
+.recipe-list li {
+  margin-bottom: 16px;
+}
+.procedure {
+  background: #fff;
+}

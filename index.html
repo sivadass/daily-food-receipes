@@ -22,17 +22,22 @@
   <body>
     <div id="app">
       <h1>APP UNDER CONSTRUCTION!</h1>
-      <ul>
+      <ul class="recipe-list">
         <li v-for="item in recipes">
           <h3>{{ item.title }}</h3>
-          <h4>Ingredients</h4>
-          <ul>
-            <li v-for="ingredient in item.ingredients">{{ ingredient }}</li>
-          </ul>
-          <h4>Procedure</h4>
-          <ol>
-            <li v-for="step in item.preparation">{{ step }}</li>
-          </ol>
+          <div class="ingredients">
+              <h4>Ingredients</h4>
+              <ul>
+                <li v-for="ingredient in item.ingredients">{{ ingredient }}</li>
+              </ul>
+          </div>
+          <div class="procedure">
+              <h4>Procedure</h4>
+              <ol>
+                <li v-for="step in item.preparation">{{ step }}</li>
+              </ol>
+          </div>
+          
         </li>
       </ul>
     </div>
