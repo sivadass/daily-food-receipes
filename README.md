@@ -57,11 +57,38 @@
 
 #### Ingredients
 
-- Millet
+##### For Cooking Millet and Dal
+
+- Foxtail millet (Thinai Arisi) - Half Cup
+- Curd - Half Cup
+- Milk - 1 Cup
+
+##### Other Ingredients
+
+- Green Chilli - 1
+- Ginger - a small piece
+- Carrot (Finely Chopped) - 1 Tablespoon
+- Coriander Leaves (Finely Chopped) - 1 Tablespoon
+- Salt - As needed
+
+##### Tempering
+
+- Oil - 1 Teaspoon
+- Mustard - Quarter Teaspoon
+- Curry Leaves - 1 Sprig
+- Asafoetida - Quarter Teaspoon
 
 #### Preparation
 
-1. Add here
+1. Wash the Millet and drain the water.
+2. Add 2 cups of water and cook for 4 whistles.
+3. Let it cool down. Add Milk to it and mash well without any lumps.
+4. Add Curd and Salt and again mix well.
+5. For tempering, heat oil in a pan and add in Mustard Seeds.
+6. Let the Mustard Seeds splutter.
+7. Add in the Asafoetida and curry leaves.
+8. Once the Curry Leaves are crisp, add the tempering to the Curd Rice.
+9. Add Carrot, Ginger, Green Chilli, torn Curry Leaves, Coriander leaves. Mix gently. Lastly garnish with the fruits and serve.
 
 ## Millet Sambar
 
@@ -113,7 +140,6 @@
 2. Let the Mustard Seeds splutter.
 3. Add in the Asafoetida and curry leaves.
 4. Once the Curry Leaves are crisp, add the tempering to the Sambar Rice.
-5. Serve hot!
 
 ## Egg Sandwich
 
