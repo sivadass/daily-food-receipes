@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+        href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap"
+        rel="stylesheet"
+      >
+    </link>
+    <link
+        href="style.css"
+        rel="stylesheet"
+      >
+    </link>
+    <link
+        rel="shortcut icon"
+        type="image/x-icon"
+        href="/static/favicon.ico"
+    />
+    <script src="https://unpkg.com/vue"></script>
+  </head>
+  <body>
+    <div id="app">
+      <h1>APP UNDER CONSTRUCTION!</h1>
+      <ul>
+        <li v-for="item in recipes">
+          <h3>{{ item.title }}</h3>
+          <h4>Ingredients</h4>
+          <ul>
+            <li v-for="ingredient in item.ingredients">{{ ingredient }}</li>
+          </ul>
+          <h4>Procedure</h4>
+          <ol>
+            <li v-for="step in item.preparation">{{ step }}</li>
+          </ol>
+        </li>
+      </ul>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>

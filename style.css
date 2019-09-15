@@ -1,0 +1,64 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Noto Sans", sans-serif;
+  color: #232323;
+  background: #fafafa;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: inherit;
+}
+a {
+  text-decoration: none;
+}
+p {
+  margin: 16px 0;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 600;
+}
+a {
+  color: #377ef9;
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+ul li {
+  display: inline;
+}
+input,
+select,
+button {
+  font-size: inherit;
+  height: 54px;
+  padding: 0 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  display: block;
+  width: 100%;
+  margin: 0 0 16px 0;
+}
+button {
+  background: #4099ff;
+  border-color: transparent;
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin: 0;
+}
+input[type="checkbox"],
+input[type="radio"] {
+  height: 0;
+  width: 0;
+  font-size: 0;
+  margin: 0;
+  padding: 0;
+  opacity: 0;
+}
