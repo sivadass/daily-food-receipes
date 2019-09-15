@@ -67,11 +67,53 @@
 
 #### Ingredients
 
-- Millet
+##### For Cooking Millet and Dal
+
+- Foxtail millet (Thinai Arisi) - Half Cup
+- Toor Dal - Half Cup
+- Water - 3 Cups
+
+##### Other Ingredients
+
+- Onion - 1
+- Tomato - 1
+- Sambar Powder - 2 Teaspoon
+- Turmeric Powder - Half Teaspoon
+- Tamarind Paste - 1 and 1/2 Tablespoon
+- Salt - As needed
+
+##### Tempering
+
+- Ghee / Refined Oil - 2 Teaspoons
+- Mustard - Quarter Teaspoon
+- Cumin Seeds - Quarter Teaspoon
+- Fenugreek Seeds - Half Teaspoon
+- Curry Leaves - 1 Sprig
+- Asafoetida - Quarter Teaspoon
 
 #### Preparation
 
-1. Add here
+##### Boil Millet and Dal:
+
+1. Soak the Dal and Millet in water for one hour.
+2. Drain the water. Add 3 cups of water and cook for 6-7 whistles.
+3. After cooking for 6-7 whistles, remove from heat and wait for the pressure to settle. Set aside.
+
+##### Putting the Sambar Rice together:
+
+1. Take a 3 or 4 litre Pressure Cooker and add in the chopped Onion and Tomato.
+2. Top the veggies with home made tamarind paste, salt, turmeric powder and sambar powder.
+3. Add in the cooked Dal and Millet mixture. Cook for 2 whistles.
+4. Remove from heat and wait for the pressure to settle. Set aside.
+5. Open the cooker and mix everything well to combine.
+
+##### Tempering:
+
+1. Heat Ghee/Oil in a pan and add in Mustard Seeds, Fenugreek Seeds and Cumin Seeds.
+2. Let the Mustard Seeds splutter.
+3. Add in the Asafoetida and curry leaves.
+4. Once the Curry Leaves are crisp, add the tempering to the Sambar Rice.
+5. Serve hot!
 
 ## Egg Sandwich
 
